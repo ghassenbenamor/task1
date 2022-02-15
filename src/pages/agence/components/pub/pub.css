@@ -1,0 +1,53 @@
+.pub {
+    background: linear-gradient(0deg, rgba(219, 208, 254, 1) 22%, rgba(245, 243, 255, 1) 64%);
+    height: 400px;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.pub-container {
+    display: flex;
+    align-items: center;
+    height: 300px;
+}
+
+.pub-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.pub-btn {
+    height: 40px;
+    width: 250px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    font-weight: bold;
+    background-color: #fcc42e;
+    margin-top: 5%;
+}
+
+.pubImg {
+    height: 380px;
+}
+
+.cloud1 {
+    position: relative;
+    top: 70px;
+}
+
+.cloud2 {
+    position: relative;
+    bottom: 120px;
+    width: 70px;
+}
+
+.cloud3 {
+    position: relative;
+    bottom: 60px;
+    left: 50px;
+    width: 100px;
+}

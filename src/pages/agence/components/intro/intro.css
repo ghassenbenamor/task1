@@ -1,0 +1,50 @@
+.intro {
+    background: linear-gradient(0deg, rgba(219, 208, 254, 1) 22%, rgba(245, 243, 255, 1) 64%);
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.intro-container {
+    display: flex;
+    align-items: center;
+}
+
+.intro-img {
+    width: 50%;
+}
+
+.intro-text {
+    width: 50%;
+}
+
+.intro-title {
+    margin-bottom: 20px;
+    font-size: 1.7rem;
+}
+
+.intro-p {
+    margin-bottom: 20px;
+    font-size: 0.9rem;
+    font-weight: 400;
+}
+
+.intro-lines {
+    display: flex;
+}
+
+.line {
+    display: flex;
+    width: 50%;
+}
+
+.check {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+.line p {
+    font-size: 0.8rem;
+}
